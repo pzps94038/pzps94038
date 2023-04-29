@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ron! 
   <img src="https://media.tenor.com/9Hm9vtHN8g8AAAAC/charmader-evolution.gif" width="50">
 </h2>
-<img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" width="230">
+<img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" width="280">
 <p>
   <em>Full-Stack Developer at Taiwan</em>
 </p>
