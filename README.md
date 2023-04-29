@@ -17,7 +17,7 @@
 
 ```javascript
 const aboutMe = {
-  code: [Javascript, Typescript, HTML, CSS, C#],
+  code: [HTML, CSS, Javascript, Typescript, C#],
   tools: [Angular, Rxjs, Entityframework, Docker, MsSql]
 }
 ```
