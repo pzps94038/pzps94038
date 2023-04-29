@@ -5,16 +5,15 @@
 <div>
   <p>Full-Stack Developer at Taiwan</p>
   <ul>
-    <li>精進開發技術</li>
-    <li>保持自我學習的熱情</li>
-    <li>執行從零到有的後台系統</li>
-    <li>構想多種錯誤情況處理</li>
+    <li>Strive to develop technical skills,</li>
+    <li>maintain a passion for self-learning,</li>
+    <li>implement backend systems from scratch,</li>
+    <li>and conceive multiple error handling scenarios.</li>
   </ul>
 </div>
 <h3>
-關於我
+A Little About Me
 </h3>
-
 ```javascript
 const aboutMe = {
   code: [HTML, CSS, Javascript, Typescript, C#],
