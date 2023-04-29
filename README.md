@@ -1,6 +1,16 @@
--  Hello, I'm Ron
--  Full-Stack Developer
--  精進開發技術
--  保持自我學習的熱情
--  執行從零到有的後台系統
--  構想多種錯誤情況處理
+<h2> Hi, I'm Ron! 
+  <img src="https://media.tenor.com/9Hm9vtHN8g8AAAAC/charmader-evolution.gif" width="50">
+</h2>
+<img align='right' src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" width="230">
+<p>
+  <em>Full-Stack Developer at Taiwan</em>
+</p>
+
+### <img src="https://media.tenor.com/XjNWme8fph0AAAAC/peachandgoma-peachmad.gif" width="50"> A Little More About Me...  
+
+```javascript
+const aboutMe = {
+  code: [Javascript, Typescript, HTML, CSS, C#],
+  tools: [Angular, Rxjs, Entityframework, Docker, MsSql]
+}
+```
