@@ -12,9 +12,8 @@
     <li>and conceive multiple error handling scenarios.</li>
   </ul>
 </div>
-<h3>
-A Little About Me
-</h3>
+
+## A Little About Me
 
 ```javascript
 const aboutMe = {
